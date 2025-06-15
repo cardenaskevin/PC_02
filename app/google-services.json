@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129858143811",
+    "project_id": "pc02-a729b",
+    "storage_bucket": "pc02-a729b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129858143811:android:532d41235c145f87cfb6f6",
+        "android_client_info": {
+          "package_name": "Practica.Calificada_02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2qso5MVfQVYPqElzAFd_fcra_Bcod6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
